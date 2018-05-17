@@ -1,0 +1,16 @@
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\blogApp.BLL.dll.config
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\blogApp.BLL.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\blogApp.BLL.pdb
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\blogApp.DAL.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\blogApp.Entidades.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\EntityFramework.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\blogApp.DAL.pdb
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\blogApp.DAL.dll.config
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\blogApp.Entidades.pdb
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\EntityFramework.xml
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\obj\Debug\blogApp.BLL.csprojResolveAssemblyReference.cache
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\obj\Debug\blogApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\obj\Debug\blogApp.BLL.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.BLL\obj\Debug\blogApp.BLL.pdb

@@ -1,0 +1,13 @@
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\bin\Debug\blogApp.DAL.dll.config
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\bin\Debug\blogApp.DAL.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\bin\Debug\blogApp.DAL.pdb
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\bin\Debug\blogApp.Entidades.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\bin\Debug\EntityFramework.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\bin\Debug\blogApp.Entidades.pdb
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\bin\Debug\EntityFramework.xml
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\obj\Debug\blogApp.DAL.csprojResolveAssemblyReference.cache
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\obj\Debug\blogApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\obj\Debug\blogApp.DAL.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.DAL\obj\Debug\blogApp.DAL.pdb

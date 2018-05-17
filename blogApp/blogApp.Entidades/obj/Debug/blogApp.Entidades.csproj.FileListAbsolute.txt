@@ -1,0 +1,6 @@
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.Entidades\bin\Debug\blogApp.Entidades.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.Entidades\bin\Debug\blogApp.Entidades.pdb
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.Entidades\obj\Debug\blogApp.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.Entidades\obj\Debug\blogApp.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.Entidades\obj\Debug\blogApp.Entidades.dll
+C:\Users\JohnJairo\Documents\Desarrollo\Projects\source\BLOGAPP\blogApp\blogApp.Entidades\obj\Debug\blogApp.Entidades.pdb

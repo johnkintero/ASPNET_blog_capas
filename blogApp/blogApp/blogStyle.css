@@ -1,0 +1,49 @@
+﻿*{
+    box-sizing:border-box;
+}
+body {
+    width: 100%;
+    margin: 0;
+}
+.container{
+
+    margin: 0 auto;
+}
+.navbar{
+    background-color: mediumpurple;
+    display:flex;
+}
+.navbar a{
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align:center;
+}
+.navbar a:hover{
+    background-color: orchid;
+}
+.material-icons {
+    padding: 10px 20px;
+    background-color: orchid;
+}
+.container table{
+    border-color: white;
+}
+input[type=button]{
+    border:none;
+    color:white;
+    padding:14px 28px;
+    cursor:pointer;
+    background-color:forestgreen;
+}
+table a {
+    border: none;
+    color: white;
+    padding: 13px 28px;
+    cursor: pointer;
+    background-color: royalblue;
+    text-decoration: none;
+}
+.fecha{
+    font-size:smaller;
+}
